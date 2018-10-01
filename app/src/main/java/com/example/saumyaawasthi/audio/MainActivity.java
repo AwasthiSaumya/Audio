@@ -62,6 +62,7 @@ mediaPlayer.pause();
             @Override
             public void onStartTrackingTouch(SeekBar seekBar) {
                 mediaPlayer.pause();
+                Log.i("play info","playing");
             }
 
             @Override
