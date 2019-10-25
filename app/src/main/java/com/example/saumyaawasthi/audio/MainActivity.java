@@ -7,7 +7,6 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.SeekBar;
-
 import java.util.Timer;
 import java.util.TimerTask;
 
